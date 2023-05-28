@@ -32,3 +32,4 @@ function generarContrasena2() {
 
 console.log(generarContrasena2()); // ejemplo de uso
 
+//ssasa
